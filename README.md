@@ -28,6 +28,6 @@ terraform destroy
 `
 
 ## Architecture Diagram
-[Architecture](architecture.png)
+![Architecture](architecture.png)
 
 
